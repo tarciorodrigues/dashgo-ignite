@@ -34,13 +34,5 @@ $ yarn
 $ yarn dev
 ```
 
-<h1 align="center">
-    <img width="900px" alt="Imagem da tela de Posts" src=".github/users.PNG" />
-</h1>
-
-<h1 align="center">
-    <img width="900px" alt="Imagem da tela de Posts" src=".github/createUser.PNG" />
-</h1>
-
 O app estará disponível no seu browser pelo endereço http://localhost:3000 assim que iniciado.
 # ignite-dashgo
